@@ -13,6 +13,16 @@ These are some of the topics we will talk about:
 
 ## Agenda
 
+### Day 1
 
+1. Setup a local app and Dockerize the app
+2. Setup ACS and AKS clusters.
+3. Kubernetes Basics - Pods/Replica deployments
+4. Deploy Wordpress and Azure Disks
 
+### Day 2
+
+1. Setup operations management tools
+2. Move MongoDB setup in the AKS cluster to Azure Cosmos
+3. Service Broker
 
