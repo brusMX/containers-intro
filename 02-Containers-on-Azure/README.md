@@ -2,6 +2,7 @@
 
 What does Azure offer regarding containers?
 
+<<<<<<< HEAD
 ## Exercises
 
 - Provision a kubernetes cluster AKS
@@ -14,5 +15,10 @@ What does Azure offer regarding containers?
 - [Azure Container Instance](https://docs.microsoft.com/en-us/azure/container-instances/)
 - [Azure Container Service](https://docs.microsoft.com/en-us/azure/aks/)
 - [Azure Container Registry](https://docs.microsoft.com/en-us/azure/container-registry/)
+=======
+## Labs
+
+## Excercises
+>>>>>>> origin/master
 
 

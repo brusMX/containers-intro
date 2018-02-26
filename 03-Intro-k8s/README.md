@@ -1,5 +1,6 @@
 # Introduction to Kubernetes
 
+<<<<<<< HEAD
 Let´s talk about pods, deployments, services and LoadBalancers.
 
 ## Excercises
@@ -13,3 +14,12 @@ Let´s talk about pods, deployments, services and LoadBalancers.
 
 - [Kubernetes foundational](https://kubernetes.io/docs/user-journeys/users/application-developer/foundational)
 - [Kubernetes objects](https://kubernetes.io/docs/concepts/overview/working-with-objects/kubernetes-objects/)
+=======
+What does Azure offer regarding containers?
+
+## Labs
+
+## Excercises
+
+
+>>>>>>> origin/master
