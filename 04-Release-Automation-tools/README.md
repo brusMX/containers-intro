@@ -1,10 +1,8 @@
-# Containers on Azure
+# Release automation tools
 
-What does Azure offer regarding containers?
-
-## Labs
+How to manage your clusters.
 
 ## Excercises
 
-## Resources
-
+- [Operations monitoring](01-operations-mgmt/06-monitoring-k8s.md)
+- [Jenkins](03-jenkins-pipeline/README.md)
