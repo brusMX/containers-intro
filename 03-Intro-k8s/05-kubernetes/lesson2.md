@@ -1,13 +1,13 @@
 # Kubernetes Deployment Versions
 
-*   Create  templateV1 deployment. This deployment includes 2 replicas and nginx container with 1.7.9 tag
-*  	Get all pods with app=nginx
-*   Describe a specific pod and check the version.
-*   Apply templateV2.yaml. The nginx version is 1.8.
-*   Get all pods with app=nginx
-*   Describe a specific pod and check the version.
-*   Apply templateV3.yaml. The replica count is updated to 4. 
-*   Verify the replica count Get all pods.
+* Create  templateV1 deployment. This deployment includes 2 reicas and nginx container with 1.7.9 tag
+* Get all pods with app=nginx
+* Describe a specific pod and check the version.
+* Apply templateV2.yaml. The nginx version is 1.8.
+* Get all pods with app=nginx
+* Describe a specific pod and check the version.
+* Apply templateV3.yaml. The replica count is updated to 4. 
+* Verify the replica count Get all pods.
 
 kubectl create -f templateV1.yaml
 
