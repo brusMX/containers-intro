@@ -8,4 +8,4 @@ For this challenges you must search on the internets for the appropiate docker i
 
 1. Run the Nyan Cat on your terminal
 
-![Whoosh!](img/nyancat.png)
+![Whoosh!](img/nyancat.jpg)
