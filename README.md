@@ -10,7 +10,7 @@ This training is almost completely on the following two previous trainings:
 ## Agenda
 
 1. [Introduction to Containers](01-Intro-Containers/README.md)
-1. [Containers on Azure](02-Containers-on-Azure/REAMDE.md)
+1. [Containers on Azure](02-Containers-on-Azure/README.md)
     1. Orchestrators
     1. ACI
     1. ACR

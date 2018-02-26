@@ -6,4 +6,6 @@ What does Azure offer regarding containers?
 
 ## Excercises
 
+## Resources
+
 
