@@ -4,8 +4,8 @@ For this challenges you must search on the internets for the appropiate docker i
 
 1. Make "whalesay" to say "Hola Mexico"
 
-![Whalesay is smart!](img/whalesay.png)
+    ![Whalesay is smart!](img/whalesay.png)
 
 1. Run the Nyan Cat on your terminal
 
-![Whoosh!](img/nyancat.jpg)
+    ![Whoosh!](img/nyancat.jpg)
