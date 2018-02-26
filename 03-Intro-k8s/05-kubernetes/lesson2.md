@@ -1,5 +1,6 @@
 # Kubernetes Deployment Versions
 
+* Explore the deployment files in lesson2.
 * Create  templateV1 deployment. This deployment includes 2 reicas and nginx container with 1.7.9 tag
 * Get all pods with app=nginx
 * Describe a specific pod and check the version.
