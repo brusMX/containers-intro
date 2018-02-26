@@ -10,8 +10,7 @@ git clone git@github.com:torosent/containers-k8s-workshop.git
 ## Excercises
 
 - [Try Docker Locally](01-Try-Docker.md)
-- [Let's do the sample](https://github.com/torosent/containers-k8s-workshop/blob/master/Docker-ACS/Labs/docker101.md)
-- [Coding with containers](03-code-container.md)
+- [Let's do the Sample (SKIP EXCERCISE 2)](https://github.com/torosent/containers-k8s-workshop/blob/master/Docker-ACS/Labs/docker101.md)
 
 ## Resources
 
