@@ -1,11 +1,16 @@
 # Introduction to containers
 
 Let´s get started with Docker containers.
+Please clone the following repo:
+
+```bash
+git clone git@github.com:torosent/containers-k8s-workshop.git
+```
 
 ## Excercises
 
 - [Try Docker Locally](01-Try-Docker.md)
-- [Let's do the sample](02-docker-101.md)
+- [Let's do the sample](https://github.com/torosent/containers-k8s-workshop/blob/master/Docker-ACS/Labs/docker101.md)
 - [Coding with containers](03-code-container.md)
 
 ## Resources
