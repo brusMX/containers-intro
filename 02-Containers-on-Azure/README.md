@@ -7,7 +7,6 @@ Let´s find out how we can run our containers on Azure
 - [Provision a kubernetes cluster with 2 nodes on AKS through the CLI](https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough)
 - [Push an image to ACR](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-azure-cli)
 - Challenge: Deploy your previous shared docker image to ACI based on the following [documentation](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-quickstart).
-- EXTRA: [Deploy an app to AKS](04-deploy-apps-aks.md)
 
 ## Resources
 
