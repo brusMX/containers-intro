@@ -42,8 +42,9 @@ Setup your local dev box, either on Windows, Mac or Linux.
 Familiarize yourself with managing applications.
 
 ### Description
-*Windows* Deploy a containerized application running a single instance of the xtoph/webapp:1.0.0 container into your local environment.
-*Linux* Deploy a containerized application running a single instance of the xtoph/nginx:v1 container into your local environment.
+*Windows* Deploy a containerized application running a single instance of the xtoph/webapp:1.0.0 container into your local environment. The webapp listens on port 5000. Make sure you configure Service Fabric to map the port. 
+
+*Linux* Deploy a containerized application running a single instance of the xtoph/nginx:v1 container into your local environment. Nginx listens on port 80. Make sure you configure Service Fabric to map the port.
 
 ### Success Criteria
 - The application shows deployed in Service Fabric explorer 
