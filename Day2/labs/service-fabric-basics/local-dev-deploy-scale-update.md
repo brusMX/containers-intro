@@ -18,10 +18,10 @@ Make sure you install the prerequisites installed
 - [SF SDK for Mac](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-get-started-mac)
 
 ### Azure CLI
-TODO
+Install the [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest) 
 
 ### Service Fabric CLI
-and the Service Fabric CLI LINK
+and the [Service Fabric CLI](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-cli)
 
 For the 2nd exercise, you'll need an Azure Subscription and a VSTS account.
 
@@ -42,12 +42,13 @@ Setup your local dev box, either on Windows, Mac or Linux.
 Familiarize yourself with managing applications.
 
 ### Description
-Deploy a containerized application running a single instance of the xtoph/nginx:v1 container into your local environment.
+*Windows* Deploy a containerized application running a single instance of the xtoph/webapp:1.0.0 container into your local environment.
+*Linux* Deploy a containerized application running a single instance of the xtoph/nginx:v1 container into your local environment.
 
 ### Success Criteria
 - The application shows deployed in Service Fabric explorer 
-- [Windows] The NGINX index page shows in your browser when accessed via the cluster DNS name 
-- [Linux] The NGINX index page shows in your browser when accessed 
+- *Windows* The MVC home page shows in your browser when accessed via the cluster DNS name 
+- *Linux* The NGINX index page shows in your browser when accessed 
 - Verify that it survives and "application crash" and update the application to the new version.
 
 ### Tips
@@ -64,12 +65,12 @@ Deploy a containerized application running a single instance of the xtoph/nginx:
 Scale and update a running service without downtime.
 
 ### Description
-- Using the sfctl CLI increase the number of instances of the xtoph/nginx:v1 container from 1 to 3. Then update the version from xtoph/nginx:v1 to xtoph/nginx:v2.
+- Using the sfctl CLI increase the number of instances of the xtoph/nginx:v1 container from 1 to 3. Then update the version from *windows* xtoph/webapp:1.0.0 to xtoph/webapps:2.0.0 *Linux* xtoph/nginx:v1 to xtoph/nginx:v2.
 - Watch the Service Fabric explorer during update and scale operations 
 
 ### Success criteria
-- 3 running instances of the NGINX Service displayed in Service Fabric explorer
-- Browser shows xtoph/nginx:v2 welcome page
+- 3 running instances of the Service displayed in Service Fabric explorer
+- Browser shows *windows* MVC Version 2 page or *Linux* xtoph/nginx:v2 welcome page
 
 TODO: 
 - Windows versions of my versioned container
